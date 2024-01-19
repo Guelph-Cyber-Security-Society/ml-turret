@@ -12,6 +12,7 @@ from torch import Tensor
 
 ##
 ## Basic Convolutional Neural Network Class
+## https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html
 ##
 class BasicConvNet(Module):
     ##
