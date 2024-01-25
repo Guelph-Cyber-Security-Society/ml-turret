@@ -20,9 +20,17 @@ def main() -> None:
     # Print the network
     print(net)
 
+    ##
+    ## End of main function
+    ##
+
 
 ##
 ## Execute main
 ##
 if __name__ == "__main__":
     main()
+
+##
+## End of file
+##
