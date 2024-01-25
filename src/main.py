@@ -5,7 +5,7 @@
 ##
 ## Libraries
 ##
-from lib.basic_conv_net import BasicConvNet
+from lib.net.net import BasicConvNet
 
 
 ##
