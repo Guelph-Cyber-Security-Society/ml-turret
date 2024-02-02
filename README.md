@@ -16,11 +16,14 @@ cd ml-turret
 
 ### Pushing Changes
 To push the changes that you made, you must first create a new branch
+
+If it asks for `git push --set-upstream origin "feature/{feature_name}"` use that instead of `git push`
+
 ```
 git checkout -b "feature/{feature_name}"
 git add .
 git commit -m "Message"
-git push --set-upstream origin "feature/{feature_name}"
+git push
 ```
 
 ### Creating a pull request
