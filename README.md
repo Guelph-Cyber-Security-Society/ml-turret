@@ -17,7 +17,7 @@ To push the changes that you made, you must first create a new branch
 git checkout -b "feature/{feature_name}"
 git add .
 git commit -m "Message"
-git push
+git push --set-upstream origin "feature/{feature_name}"
 ```
 
 ### Creating a pull request
