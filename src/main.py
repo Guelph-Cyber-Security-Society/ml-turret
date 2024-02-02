@@ -9,7 +9,7 @@ from lib.net.net import BasicConvNet
 
 
 ##
-## Main function
+## Main function test
 ##
 def main() -> None:
     # Create a network with 1 input channel, 6 output channels, and a kernel size of 5
