@@ -6,6 +6,7 @@ https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
 
 ## How to contribute
 If you want to contribute to the code, follow these steps.
+https://youtu.be/Z9X4VhX2tpU
 
 ### Cloning the Repository
 This is how to clone the GitHub repo with all of the code for the project.
